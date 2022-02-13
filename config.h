@@ -33,7 +33,6 @@ static const char *const autostart[] = {
 	"fcitx5", NULL,
 	"flameshot", NULL,
 	"xcompmgr", "-c", "-o.0", NULL,
-	"xset", "s", "off", "-dpms", NULL,
 	"sh", "-c", "$HOME/.fehbg", NULL,
 	"dwmbar", NULL,
 	NULL /* terminate */
