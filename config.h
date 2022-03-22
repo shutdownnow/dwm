@@ -34,7 +34,7 @@ static const char *const autostart[] = {
 	"flameshot", NULL,
 	"xcompmgr", "-c", "-o.0", NULL,
 	"sh", "-c", "$HOME/.fehbg", NULL,
-	"dwmbar", NULL,
+	"dbar", NULL,
 	NULL /* terminate */
 };
 
